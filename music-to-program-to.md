@@ -2,16 +2,16 @@ Music to program to
 -------------------
 
 ## Remit  
-- pure drum-based tracks
-- minimal vocals
+- pure drum-based tracks  
+- minimal vocals  
 
-## Arists
-Babatunde Olatunji
+## Arists  
+Babatunde Olatunji  
 
-## Albums discovered
+## Albums discovered  
+Circle of Drums - Babatunde Olatunji 
 
-
-## Albums rejected - vocals
-Drums of Passion - Babatunde Olatunji
+## Albums rejected - vocals  
+Drums of Passion - Babatunde Olatunji  
 Drums of Passion: The Beat - Babatunde Olatunji
 
