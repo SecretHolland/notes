@@ -1,7 +1,7 @@
 Music to program to
 -------------------
 
-## Remit  
+## Preference  
 - pure drum-based or instrumental tracks  
 - no/minimal vocals  
 
