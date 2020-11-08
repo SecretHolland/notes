@@ -1,7 +1,7 @@
 Music to program to
 -------------------
 
-## Preference  
+## Preferences  
 - pure drum-based or instrumental tracks  
 - no/minimal vocals  
 
